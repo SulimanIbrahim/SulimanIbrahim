@@ -1,8 +1,8 @@
 <div align="center">
   
-  <h1>Hi there, I'm <a href="https://suliman.live" target="_blank">Suliman Ibrahim</a>! 👋</h1>
-
-  <h3>Software Engineer | 42 Network Alumni | AI & ML Enthusiast</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Suliman+Ibrahim;Software+Engineer;Frontend+Specialist;AI+%26+ML+Enthusiast;42+Network+Alumni" alt="Typing SVG" />
+  </a>
 
   <p>
     <em>"I don't just write code; I bridge the gap between complex logic, AI, and human experience."</em>
@@ -21,11 +21,11 @@
 
 ---
 
-### 🚀 The "Forward Deployed" Mindset
+### 🌌 The "Forward Deployed" Mindset
 
 I am a **Software Engineer** with a specialized focus on **Frontend Development** and a deep growing passion for **Artificial Intelligence & Machine Learning**. 
 
-As a proud **Alumni of the 42 Network (Abu Dhabi)**, I was trained in a peer-to-peer environment that prioritizes rigorous problem-solving and algorithmic thinking. My journey has taken me from low-level C programming to building modern web applications at **Red White Tech**. 
+As a proud **Alumni of the 42 Network (Abu Dhabi)**, I was trained in a peer-to-peer environment that prioritizes rigorous problem-solving and algorithmic thinking. My journey has taken me from low-level C programming to building modern web applications.
 
 Now, I am focused on the **ML Route**—exploring how to integrate intelligent backends with pixel-perfect, high-performance user interfaces. I thrive in the intersection where technical engineering meets the cutting edge of AI utility.
 
@@ -46,7 +46,7 @@ Now, I am focused on the **ML Route**—exploring how to integrate intelligent b
 
 - **Frontend Architecture:** Specializing in React.js ecosystems to build scalable, responsive dashboards.
 - **The ML Route:** Actively expanding my skillset in **Machine Learning and Python**, focusing on how to deploy and visualize AI models for end-users.
-- **DevOps Integration:** Implementing ELK stacks and Docker containers to ensure applications have robust monitoring and deployment pipelines.
+- **DevOps Integration:** Implementing ELK stacks and Docker containers to ensure my frontend applications have robust monitoring and deployment pipelines.
 - **AI Advocacy:** Creating content for "AI for Everyone," simplifying complex AI concepts for non-technical audiences.
 
 ---
@@ -54,12 +54,18 @@ Now, I am focused on the **ML Route**—exploring how to integrate intelligent b
 ### ⚡ Distinctive Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=INSERT_YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INSERT_YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=INSERT_YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <br/>
   <i>"I use Arch, by the way." (Running on Mac Hardware 🍎)</i>
 </div>
