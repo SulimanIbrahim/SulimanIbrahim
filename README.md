@@ -51,19 +51,6 @@ Now, I am focused on the **ML Route**—exploring how to integrate intelligent b
 
 ---
 
-### ⚡ Distinctive Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=INSERT_YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INSERT_YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=INSERT_YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
   <br/>
