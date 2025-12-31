@@ -21,7 +21,7 @@
 
 ---
 
-### 🌌 The "Forward Deployed" Mindset
+### The "Forward Deployed" Mindset
 
 I am a **Software Engineer** with a specialized focus on **Frontend Development** and a deep growing passion for **Artificial Intelligence & Machine Learning**. 
 
@@ -31,7 +31,7 @@ Now, I am focused on the **ML Route**—exploring how to integrate intelligent b
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
@@ -42,7 +42,7 @@ Now, I am focused on the **ML Route**—exploring how to integrate intelligent b
 
 ---
 
-### 🔭 Current Focus & Highlights
+### Current Focus & Highlights
 
 - **Frontend Architecture:** Specializing in React.js ecosystems to build scalable, responsive dashboards.
 - **The ML Route:** Actively expanding my skillset in **Machine Learning and Python**, focusing on how to deploy and visualize AI models for end-users.
@@ -54,5 +54,5 @@ Now, I am focused on the **ML Route**—exploring how to integrate intelligent b
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
   <br/>
-  <i>"I use Arch, by the way." (Running on Mac Hardware 🍎)</i>
+  <i>"I use Arch, by the way." (Running on Mac Hardware)</i>
 </div>
